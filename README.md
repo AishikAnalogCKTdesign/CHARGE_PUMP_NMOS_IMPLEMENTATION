@@ -2,7 +2,7 @@
 
 A charge pump circuit in VLSI (Very Large ScaleIntegration) is a type of DC-DC converter that efficiently generates higher or lower voltage levels from a given input voltagewithout the need for inductors. It operates by transferring charge between capacitors through switches, allowing for a compact and efficient design. Compared to traditional buck and boost converters, charge pumps offer advantages such as reduced size and cost since they do not require bulky inductors. They also have lower electromagnetic interference (EMI), making them suitable for integrated circuit designs where space and noise are critical considerations. Additionally, charge pumps can achieve high efficiency at low power levels, which is beneficial in battery operated devices.
 
-**BLOCK DIAGRAM OF A CHARGE_PUMP**  File name ---> 
+**BLOCK DIAGRAM OF A CHARGE_PUMP**         File name --->  Charge_pump_NMOS.cir
 
 ![Hackathon Circuit__Implementation_IP](https://github.com/user-attachments/assets/94af78ab-df3e-4d38-96d9-e95ac57d7de8)
 
