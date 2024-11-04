@@ -7,7 +7,7 @@ A charge pump circuit in VLSI (Very Large ScaleIntegration) is a type of DC-DC c
 ![Hackathon Circuit__Implementation_IP](https://github.com/user-attachments/assets/94af78ab-df3e-4d38-96d9-e95ac57d7de8)
 
 
-**NMOS CIRCUIT OF THE CHARGE PUMP**
+**NMOS CIRCUIT OF THE CHARGE PUMP**   File Name ------> Hackathon_Charge_Pump.cir
 
 ![Hackathon Circuit__Implementation_MOS](https://github.com/user-attachments/assets/17510b1b-4b27-424a-b3ac-792eaed3af5f)
 
@@ -29,5 +29,8 @@ A charge pump circuit in VLSI (Very Large ScaleIntegration) is a type of DC-DC c
 ![Hackathon Circuit_Implementation_Result](https://github.com/user-attachments/assets/fecbbc9a-2895-4adf-8458-d309eca38226)
 
 
+Issues Faced in designing with Sky 130 nm technology.
+
+As we can see from the output waveform the voltage does fall for few ms and again rise up to the steady state . It might because of the 130nm techlogy gate length which is responsible for the slow switching of the NMOS and hence maybe the time of the switching of the NMOS is more that than the charging and discharging of the Caps .
 
 
